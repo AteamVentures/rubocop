@@ -1,3 +1,6 @@
+#### RUBOCOP ATEAM VENTURES FORK
+> The purpose of this fork is to allow the use of static code analysis in Ruby 2.4 flavor
+
 [![Gem Version](https://badge.fury.io/rb/rubocop.svg)](http://badge.fury.io/rb/rubocop)
 [![Dependency Status](https://gemnasium.com/bbatsov/rubocop.svg)](https://gemnasium.com/bbatsov/rubocop)
 [![Build Status](https://travis-ci.org/bbatsov/rubocop.svg?branch=master)](https://travis-ci.org/bbatsov/rubocop)
